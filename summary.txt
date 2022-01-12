@@ -1,0 +1,6 @@
+this is a website project  build using PHP
+
+1. create a database name "touristguide"
+2. just import the sql file 
+3. you can login as user=admin and password =admin
+I have made the password as text file.you can change it yourself as password.
